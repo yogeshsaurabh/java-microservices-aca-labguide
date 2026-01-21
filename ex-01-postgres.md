@@ -55,7 +55,7 @@ In this task, you will fork a parent repository to your GitHub account, set up t
 
 1. On the repository page, select **Code (1)** and copy the **git URL (2)** using the copy option.
 
-   ![](./media/Ex1.1T1S12.png)
+   ![](./media/Ex2.1T2S10.png)
 
 1. Once you copy the URL , open **Visual Studio Code** from the desktop.
 
