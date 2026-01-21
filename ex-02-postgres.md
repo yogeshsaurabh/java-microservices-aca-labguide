@@ -128,7 +128,7 @@ In this task, you will configure Application Insights to receive monitoring data
 1. Since you will now be containerizing the different microservices, you will also need to create a new **Azure Container Registry (ACR)** instance for holding your container images.
 
     ```
-    MYACR=acrpetclinic<inject key="DeploymentID" enableCopy="false" />
+    MYACR=acrpetclinics<inject key="DeploymentID" enableCopy="false" />
 
     az acr create \
      -n $MYACR \
