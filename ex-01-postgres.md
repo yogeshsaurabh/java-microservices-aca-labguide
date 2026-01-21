@@ -104,7 +104,11 @@ In this task, you will fork a parent repository to your GitHub account, set up t
 
 1. When prompts, click on **No, sign in to this app only** and continue.
 
+    ![](./media/p1t1s18.png)
+
 1. Return to your **Visual Studio Code** terminal, now it prompts you to select subscription enter **1** and hit enter.
+
+   ![](./media/p1t1s19.png)
 
    >**Note:** If you are seeing a list of subscriptions showing in the prompt, then type 131 and hit enter to select the proper subscription.
 
@@ -113,6 +117,8 @@ In this task, you will fork a parent repository to your GitHub account, set up t
    ```
    az extension add --name containerapp --version 1.3.0b1
    ```
+
+   ![](./media/Ex1.1T1S20.png)
 
 ## Task 2: Set up a configuration repository
 
@@ -147,13 +153,10 @@ In this task, you will create a private GitHub repository to securely store conf
 
    ![](./media/ex1img41.png)
 
-1. On the Developer settings pane, select **Tokens(Classic) (1)** and click on **Generate token (2)**. 
+1. On the Developer settings pane, select **Personal access tokens (1)** to extend drop-down menu, click on **Tokens (classic) (2)**, click on **Generate new token (3)** and select **Generate new token (classic) (4)**. 
 
-   ![](./media/ex1img42.png)
+   ![](./media/Ex1.1T2S8.png)
 
-1. After clicking on **Generate token**, select **Generate new token (classic)**.
-
-   ![](./media/ex1img43.png)
 
 1. On the **New personal access token (classic)** page, provide **Note** as `java-microservices-pat-token` **(1)** and check the **repo (2)** option from the list. Scroll down to the end and click on **Generate token**.
 
