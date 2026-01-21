@@ -341,6 +341,8 @@ In this task, you will build your application using maven, and will be using the
 
 1. In the browse window, navigate to `C:\Labfiles\java-microservices-aca-lab\src` folder and click on **Select Folder**. This will open your **Source Code** directory in **Visual Studio Code** window.
 
+   ![](./media/p1t3s2.png)
+
 1. Once you open the folder in Visual Studio Code, on **Do you trust the authors of the files of this folder?** pop up, click on **Yes, I trust the authors**.
 
    ![](./media/ex-01-new.png)
@@ -479,7 +481,7 @@ In this task, you will create configuration server which uses the configuration 
 
 1. In the Container app environment's overview page, select **Services (1)** from the left menu, click on **+ Configure (2)** and select **Java component (3)**.
 
-    ![](./media/ex1img15.png)
+    ![](./media/Ex1.1T4S4.png)
 
 1. On **Configure Java component** page, select **Java component type** as **Config Server for Spring (1)**, **Java component name** as **myconfigserver** and click on **+ Add (3)** to add your config repository details. 
 
@@ -507,7 +509,7 @@ In this task, you will create configuration server which uses the configuration 
 
 1. Once the configuration is successfull, go back to the **Services** pane from the left menu, click on **+ Configure** and select **Java component**.
 
-    ![](./media/ex1img19.png)
+    ![](./media/Ex1.1T4S9.png)
 
 1. On **Configure Java component** page, provide the following details:
 
