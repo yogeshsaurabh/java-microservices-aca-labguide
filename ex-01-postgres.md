@@ -45,17 +45,17 @@ In this task, you will fork a parent repository to your GitHub account, set up t
 
 1. On **Create a new fork** pane, leave everything as default and click on **Create fork**.
 
-   ![](./media/ex1img32.png)
+   ![](./media/Ex1.1T1S8.png)
 
    >**Note:** If you facing any issues using microsoft edge, please install chrome browser and continue further.
 
 1. Now you have successfully forked the repository to your GitHub Account.
 
-   ![](./media/ex1img33.png)
+   ![](./media/Ex1.1T1S9.png)
 
 1. On the repository page, select **Code (1)** and copy the **git URL (2)** using the copy option.
 
-   ![](./media/ex1img34.png)
+   ![](./media/Ex1.1T1S12.png)
 
 1. Once you copy the URL , open **Visual Studio Code** from the desktop.
 
@@ -96,11 +96,11 @@ In this task, you will fork a parent repository to your GitHub account, set up t
 
    Username: <inject key="AzureAdUserEmail"></inject> and click on **Next**.
 
-   ![](./media/ex1img4.png)
+   ![](./media/Ex1.1T1S17a.png)
 
    Password: <inject key="AzureAdUserPassword"></inject> and click on **Sign in**.
 
-   ![](./media/ex1img5.png)
+   ![](./media/Ex1.1T1S17b.png)
 
 1. When prompts, click on **No, sign in to this app only** and continue.
 
@@ -111,7 +111,7 @@ In this task, you will fork a parent repository to your GitHub account, set up t
 1. After successfully loging into your account, in terminal and run the following command to add the required extension.
 
    ```
-   az extension add --name containerapp --version 0.3.53
+   az extension add --name containerapp --version 1.3.0b1
    ```
 
 ## Task 2: Set up a configuration repository
@@ -135,7 +135,7 @@ In this task, you will create a private GitHub repository to securely store conf
    - Check **Add a README file (3)** box.
    - Click on **Create repository**.
 
-     ![](./media/ex1img38.png)
+     ![](./media/p1t2s4.png)
 
 1. Once the repository is created, click on the profile picture from the **top right corner**.
 
