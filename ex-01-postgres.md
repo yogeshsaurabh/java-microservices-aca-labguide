@@ -102,7 +102,7 @@ In this task, you will fork a parent repository to your GitHub account, set up t
 
    ![](./media/Ex1.1T1S17b.png)
 
-1. When prompts, click on **No, sign in to this app only** and continue.
+1. When prompts, click on **No, this app only** and continue.
 
     ![](./media/p1t1s18.png)
 
@@ -557,3 +557,4 @@ In this task, you will create configuration server which uses the configuration 
 In this exercise, you have set up a GitHub repository to manage configurations and used Azure CLI to prepare the cloud environment. You created a private configuration repository, updated the necessary files, and deployed the microservices of the Spring Petclinic application to Azure Container Apps (ACA). Additionally, you created Java components for the configuration and discovery servers to ensure smooth service orchestration and management and also tested the application.
 
 ### You have Successfully completed the Lab!
+
